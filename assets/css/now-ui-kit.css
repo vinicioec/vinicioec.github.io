@@ -1720,7 +1720,7 @@ h6, .h6 {
 p {
   line-height: 1.61em; }
 p.description {
-  font-size: 1.14em; }
+  font-size: 1.10em; }
 
 .title {
   font-weight: 700; }
@@ -1733,8 +1733,8 @@ p.description {
   margin-top: -25px; }
 
 .description, .card-description, .footer-big p {
-  color: #9A9A9A;
-  font-weight: 300; }
+  /**color: #9A9A9A;**/
+  font-weight: 200; }
 
 .category {
   text-transform: uppercase;
